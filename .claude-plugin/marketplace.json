@@ -58,6 +58,9 @@
         "serverless",
         "lambda",
         "durable functions",
+        "managed-instances",
+        "lmi",
+        "capacity-provider",
         "development",
         "sam",
         "api gateway",
@@ -71,13 +74,15 @@
         "serverless",
         "lambda",
         "durable functions",
+        "managed-instances",
+        "lmi",
         "development",
         "sam",
         "api gateway",
         "eventbridge",
         "step functions"
       ],
-      "version": "1.0.0"
+      "version": "1.1.0"
     },
     {
       "category": "migration",
