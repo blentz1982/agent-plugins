@@ -1,0 +1,46 @@
+# [CODEOWNERS](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners#about-code-owners)
+
+## Default owners for everything in the repo
+
+*                                   @blentz1982
+
+## Administrators
+
+.bandit-baseline.json               @blentz1982
+.claude-plugin/                     @blentz1982
+.github/                            @blentz1982
+.gitignore                          @blentz1982
+.gitleaks-baseline.json             @blentz1982
+.gitleaks.toml                      @blentz1982
+.gitleaksignore                     @blentz1982
+.markdownlint-cli2.yaml             @blentz1982
+AGENTS.md                           @blentz1982
+CLAUDE.md                           @blentz1982
+CODE_OF_CONDUCT.md                  @blentz1982
+CONTRIBUTING.md                     @blentz1982
+CODEOWNERS                          @blentz1982
+docs/                               @blentz1982
+dprint.json                         @blentz1982
+LICENSE                             @blentz1982
+mise.toml                           @blentz1982
+NOTICE                              @blentz1982
+plugins/                            @blentz1982
+README.md                           @blentz1982
+schemas/                            @blentz1982
+tools/                              @blentz1982
+
+## Plugins (alphabetically listed)
+
+plugins/amazon-location-service     @blentz1982
+plugins/aws-amplify                 @blentz1982
+plugins/aws-serverless              @blentz1982
+plugins/aws-transform               @blentz1982
+plugins/codebase-documentor-for-aws @blentz1982
+plugins/databases-on-aws            @blentz1982
+plugins/deploy-on-aws               @blentz1982
+plugins/migration-to-aws            @blentz1982
+plugins/sagemaker-ai                @blentz1982
+
+## Evals (match plugin ownership)
+
+tools/evals/databases-on-aws        @blentz1982
